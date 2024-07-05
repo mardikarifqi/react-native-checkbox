@@ -46,11 +46,11 @@ buck-out/
       
 
 # TypeScript build file
-dist
+# dist
 
 # Bundle artifact
 *.jsbundle
 .tmp/
-src/dist
+# src/dist
 
 */ios/Pods
